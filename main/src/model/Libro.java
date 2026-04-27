@@ -1,8 +1,8 @@
 package model;
 
 public interface Libro {
-    String getIsbn();
-    String getTitulo();
-    String getAutor();
-    String getCategoria();
+    String isbn();
+    String titulo();
+    String autor();
+    String categoria();
 }
