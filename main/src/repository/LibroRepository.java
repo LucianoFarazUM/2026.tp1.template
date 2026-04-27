@@ -10,7 +10,7 @@ public class LibroRepository implements Repository<Libro, String> {
 
     @Override
     public void save(Libro libro) {
-        data.put(libro.getIsbn(), libro);
+        data.put(libro.isbn(), libro);
     }
 
     @Override
