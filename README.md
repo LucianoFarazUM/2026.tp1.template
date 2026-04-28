@@ -7,9 +7,9 @@
 
 | Campo | Respuesta |
 | :--- | :--- |
-| **Nombre** | |
-| **Apellido** | |
-| **Legajo** | |
+| **Nombre** |Luciano |
+| **Apellido** |Faraz |
+| **Legajo** |61134 |
 
 > **Fecha de entrega:** 28 de Abril de 2026
 
